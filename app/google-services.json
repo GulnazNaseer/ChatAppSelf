@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230156652195",
+    "firebase_url": "https://chatappself-1ddce.firebaseio.com",
+    "project_id": "chatappself-1ddce",
+    "storage_bucket": "chatappself-1ddce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230156652195:android:5591881c88b0ed0df67916",
+        "android_client_info": {
+          "package_name": "com.aa.autotow.chatappself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230156652195-j02ghf9103nvjfk1f5j1aib2q1n5b2d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMny_W98g0pQojtWCi_dIvUr1Zi15_NOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230156652195-j02ghf9103nvjfk1f5j1aib2q1n5b2d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
